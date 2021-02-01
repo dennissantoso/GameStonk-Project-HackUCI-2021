@@ -1,6 +1,7 @@
+![](main_menu.png)
+
 # **GameStonk**
 A simulation of the rise of GameStop stock. Download the files, Pygame, and then run main.py
-![](main_menu.png)
 
 # **Inspiration**
 Over the past week, we've watched as we, as well as brothers and sisters, marched boldly to the front lines of what has now been called the Revolutionary War of Finance. They tried to halt us, they tried to scare us, and they even tried to shut us down, but we held the line. This movement led to many debts being paid off, led to many billionaire tears being collected, and deeply moved everyone on our team. We know that some people may have missed out on this opportunity of a lifetime, so we created a simulation of the meteoric rise of GameStonk so everyone can experience the thrill of blowing up the shorts and train their diamond hands. 💎✋🚀🚀🚀
