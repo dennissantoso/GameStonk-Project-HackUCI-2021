@@ -23,3 +23,7 @@ Of course, we explored a good amount of what the Pygame library has to offer. We
 
 # **What's next for GameStonk Simulator**
 Next stop: Mars.
+
+
+# **Devpost**
+https://devpost.com/software/gamestonk-simulator?ref_content=my-projects-tab&ref_feature=my_projects
