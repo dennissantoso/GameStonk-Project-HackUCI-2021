@@ -1,5 +1,4 @@
 # **GameStonk**
-
 A simulation of the rise of GameStop stock. Download the files, Pygame, and then run main.py
 ![](main_menu.png)
 
